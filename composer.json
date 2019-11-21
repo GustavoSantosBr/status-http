@@ -5,6 +5,9 @@
     "license": "MIT",
     "minimum-stability": "stable",
     "keywords": [
+        "status http",
+        "status-http",
+        "http",
         "psr",
         "psr-4"
     ],
