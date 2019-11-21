@@ -1,0 +1,24 @@
+{
+    "name": "gustavo.santos/status-http",
+    "description": "HTTP response status codes indicate whether an HTTP request was completed correctly. Responses are grouped into five classes: informational responses, successful responses, redirects, client errors, and server errors.",
+    "type": "library",
+    "keywords": [
+        "psr",
+        "psr-4"
+    ],
+    "authors": [
+        {
+            "name": "Gustavo Santos",
+            "email": "gustavo-santos-g1@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Http\\": "Http/src/"
+        }
+    }
+}
