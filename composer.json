@@ -3,7 +3,7 @@
     "description": "HTTP response status codes indicate whether an HTTP request was completed correctly. Responses are grouped into five classes: informational responses, successful responses, redirects, client errors, and server errors.",
     "type": "library",
     "license": "MIT",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "keywords": [
         "status http",
