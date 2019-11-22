@@ -4,6 +4,13 @@ declare(strict_types=1);
 
 namespace Http;
 
+/**
+ * Status response http
+ *
+ * @copyright (c) 2019.
+ * @link <https://github.com/GustavoSantosBr/status-http.git>
+ * @author Gustavo Santos <gustavo.freze@gmail.com>
+ */
 class StatusHttp
 {
     # Informational 1xx
