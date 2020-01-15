@@ -5,7 +5,23 @@
 
 Esta biblioteca é destinada a agrupar o status de resposta http. 
 
-Para utilizar:
+## Instalação
+
+Execute o comando:
 ```bash
 composer require gustavosantos/status-http
 ```
+
+## Implementação
+
+- Basta importar a classe ***StatusHttp*** e utilizar um dos status disponíveis.
+  
+  Importação:     
+  ```php
+  use Http\StatusHttp;          
+  ```
+  
+  Status:
+   ```php
+  StatusHttp::OK;
+   ```
